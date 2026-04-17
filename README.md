@@ -1,1 +1,3 @@
 # FinMMEval-Lab-2026
+
+for task3, add HF token in colab to access the dataset
